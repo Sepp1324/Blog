@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="c7979c7c0e" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="slick" level="application" />
   </component>
 </module>
