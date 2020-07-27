@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -23,6 +24,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Blog/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,10 +45,29 @@
       <option name="presentableId" value="Default" />
       <updated>1595872067245</updated>
       <workItem from="1595872068299" duration="27000" />
+      <workItem from="1595872138955" duration="2705000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1258" height="489" key="GridCell.Tab.0.bottom" timestamp="1595872339765">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="489" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595872339765" />
+    <state width="1258" height="489" key="GridCell.Tab.0.center" timestamp="1595872339765">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="489" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595872339765" />
+    <state width="1258" height="489" key="GridCell.Tab.0.left" timestamp="1595872339764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="489" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595872339764" />
+    <state width="1258" height="489" key="GridCell.Tab.0.right" timestamp="1595872339765">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="489" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595872339765" />
   </component>
 </project>
